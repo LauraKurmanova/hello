@@ -1,1 +1,4 @@
 New text
+
+Другая новая строка
+Hello Git
